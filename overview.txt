@@ -1,0 +1,7 @@
+Here I have perfomed sentiment analysis on a Flipkart Product review. I have acessed the data from
+Flipkart website by web scraping.
+Here all the reviews will be extracted
+from the site and will be saved to .csv file.
+After this, the sentiment analysis is performed in each review and the compound sentiment, positivity,
+negativity and neutrality is displayed for each review.
+At last, I have measured the accuracy of the results to see how much accurate the model is.
